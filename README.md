@@ -11,6 +11,6 @@
 -Tries to break at sentence boundaries first, then word boundaries
 -Avoids cutting words in half
 
-3.**Text cleaning**: Removes excessive whitespace and normalizes formatting
+3. **Text cleaning**: Removes excessive whitespace and normalizes formatting
 
-4.**Metadata tracking**: Each chunk includes source file, position, character count, etc.
+4. **Metadata tracking**: Each chunk includes source file, position, character count, etc.
